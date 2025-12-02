@@ -1,0 +1,16 @@
+# Python 相關
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境 (絕對不要上傳)
+venv/
+env/
+.env
+
+# VS Code 設定檔 (個人偏好不需上傳)
+.vscode/
+
+# 暫存檔
+*.log
+*.tmp
