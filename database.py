@@ -1,61 +1,96 @@
-import mysql.connector
-from mysql.connector import Error
+import pymysql
 import os
+import sys
+import socket
 from dotenv import load_dotenv
-
-# 1. 強制指定載入 .env 路徑 (避免路徑錯誤)
 from pathlib import Path
+
+# 強制顯示輸出
+sys.stdout.reconfigure(encoding='utf-8')
+
+# 載入 .env
 env_path = Path('.') / '.env'
 load_dotenv(dotenv_path=env_path)
 
+def check_port_open(host, port):
+    """ [診斷] 檢查遠端主機的 3306 Port 是否有開 (排除防火牆問題) """
+    print(f"[Network Check] Pinging {host}:{port}...")
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    sock.settimeout(3) # 設定 3 秒超時
+    try:
+        result = sock.connect_ex((host, port))
+        if result == 0:
+            print(f"[Network Check] ✅ Port {port} is OPEN. Network is OK.")
+            return True
+        else:
+            print(f"[Network Check] ❌ Port {port} is CLOSED or BLOCKED (ErrCode: {result}).")
+            print("   -> 請檢查雲端主機的「安全性群組 (Security Group)」是否放行 3306 Port。")
+            return False
+    except Exception as e:
+        print(f"[Network Check] ❌ Error: {e}")
+        return False
+    finally:
+        sock.close()
+
 def create_connection():
-    """ 建立並回傳資料庫連線物件 """
     connection = None
     try:
-        # 除錯：印出目前的設定值 (檢查是否讀到 None)
-        # 注意：不要印出密碼，保護安全
+        print("[Step 2] Reading .env config...")
         db_host = os.getenv("DB_HOST")
         db_user = os.getenv("DB_USER")
+        db_pass = os.getenv("DB_PASSWORD")
         db_name = os.getenv("DB_NAME")
+        db_port = int(os.getenv("DB_PORT", 3306))
         
-        if db_host is None or db_user is None:
-             print("❌ 嚴重錯誤：讀取不到 .env 設定檔！變數為 None。")
-             print("   請確認 .env 檔案是否在同一個資料夾下，且檔名正確。")
-             return None
+        # 1. 先做網路診斷
+        if not check_port_open(db_host, db_port):
+            return None
 
-        connection = mysql.connector.connect(
+        print(f"[Step 3] Connecting using PyMySQL... (Host: {db_host}, User: {db_user})")
+        
+        # 2. 建立連線 (使用 pymysql)
+        connection = pymysql.connect(
             host=db_host,
             user=db_user,
-            password=os.getenv("DB_PASSWORD"),
+            password=db_pass,
             database=db_name,
-            port=os.getenv("DB_PORT", "3306") # 預設給 3306 避免 None 錯誤
+            port=db_port,
+            charset='utf8mb4',
+            cursorclass=pymysql.cursors.DictCursor, # 讓查詢結果變成 Dictionary 方便使用
+            connect_timeout=10 # 設定 10 秒連線超時
         )
-        if connection.is_connected():
+        
+        if connection.open:
+            print("[Success] ✅ MySQL connection established!")
             return connection
             
-    except Error as e:
-        print(f"❌ MySQL 連線錯誤: {e}")
-        return None
+    except pymysql.MySQLError as e:
+        print(f"[MySQL Error] Code: {e.args[0]}, Message: {e.args[1]}")
     except Exception as e:
-        # 捕捉其他所有 Python 錯誤 (如 TypeError)
-        print(f"❌ 程式執行錯誤 (Python Error): {e}")
-        return None
+        print(f"[System Error] {e}")
+    
+    return None
 
 def close_connection(connection):
-    if connection and connection.is_connected():
+    if connection and connection.open:
         connection.close()
 
 if __name__ == "__main__":
-    print("🚀 正在嘗試連線到 MySQL...")
+    print("🚀 Program started (PyMySQL Mode)")
     
-    # 測試 .env 是否存在
-    if not os.path.exists(".env"):
-        print("⚠️ 警告：系統找不到 .env 檔案！請確認檔名是否真的是 '.env' (不是 .env.txt)")
-
     conn = create_connection()
     
     if conn:
-        print(f"✅ 成功連線到資料庫: {os.getenv('DB_NAME')}")
-        close_connection(conn)
+        print(f"[Step 4] Query Test:")
+        try:
+            with conn.cursor() as cursor:
+                cursor.execute("SELECT VERSION() as ver;")
+                result = cursor.fetchone()
+                print(f"📊 DB Version: {result['ver']}")
+        finally:
+            close_connection(conn)
+            print("[Step 5] Connection closed.")
     else:
-        print("💀 連線失敗，請檢查上方錯誤訊息。")
+        print("💀 Connection FAILED.")
+    
+    input("Press Enter to exit...")
