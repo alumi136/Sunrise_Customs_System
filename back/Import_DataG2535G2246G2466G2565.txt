@@ -1,0 +1,261 @@
+報單號碼,項次,貨號/條碼,貨物名稱,稅則號列,許可證號碼,申報注意事項
+AA/13/441/G2535,1,4549131214048,MINI GUITAR body-HIPS.string-Nylon 樂器玩具,9503.00.71.00-8,20203272680006,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,2,4549131261912,Wooden Planter Ivy wood polyester polyethylene Formed EVA 裝飾綠植,6702.90.00.00-0,,
+AA/13/441/G2535,3,4549131618792,Unglazed Flowerpot 11.3x9.0cm laterite 陶花盆,6914.90.90.90-6,,陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2535,4,4549131668483,Wire Basket -37cm x 26cm x 18cm Black- steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,5,4549131669497,Unglazed Flowerpot 2 pcs. Laterite 陶盆栽,6914.90.90.90-6,,陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2535,6,4549131679212,Goldfish Scooping set Polyethylene Polypropylene Polyester 撈金魚玩具,9503.00.91.90-5,20203272680006,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,7,4549131683790,Green Ring polysyrene 仿真裝飾花圈,6702.90.00.00-0,,
+AA/13/441/G2535,8,4549131705003,Floating Animal Polyvinyl chloride 泡澡玩具,9503.00.69.00-2,20203272681009,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,9,4549131707717,LACEBORI TAYO BOWL porcelain 瓷土碗【420ml】,6911.10.00.00-4,IFB13PK0785002,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2535,10,4549131749472,Lithium Button Battery CR2016 3 pcs.- 鋰鈕扣電池CR2016,8506.50.00.00-2,,
+AA/13/441/G2535,11,4549131858143,Wire Basket Black 26cm x 17cm x 11cm Steel 100%、收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,12,4549131858167,Wire Basket Black 34cm x 25cm x 14cm Steel 100%、收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,13,4549131858174,Wire Basket Black 34cm x 25cm x 24cm Steel 100%、收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,14,4549131873917,Dolly Battle Polypropylene 100%、掌上玩具,9503.00.91.90-5,20203272680006,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,15,4549131874792,Colorful Ball-10pcs. -6cm-2.4in- Polyethylene 100%、玩具球,9506.69.90.00-0,20203272681009,
+AA/13/441/G2535,16,4549131881318,Construction Truck Mini Body ABS resin 100%、Cover: Zinc alloy 100%、玩具車,9503.00.41.00-5,20203272682002,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,17,4549131881349,Off Road Car Mini- Body ABS resin 100%、Cover: Zinc alloy 100%、玩具車,9503.00.41.00-5,20203272682002,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,18,4549131954272,Planter Sand Container Cement Contents Polyethylene 裝飾植栽,6702.90.00.00-0,,
+AA/13/441/G2535,19,4549892004193,Cream Container -6 pcs. - 5g -0.2oz Polypropylene 分裝容器,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,20,4549892092572,Makeup Sponge Value Pack House Shape 14 pcs. Polyurethane 化妝海綿,9616.20.00.00-4,,
+AA/13/441/G2535,21,4549892252563,Film Sticky Note Pop-up Type Brown 160 Notes- Polyethylene terephthalate 標籤貼,3919.90.90.00-6,,
+AA/13/441/G2535,22,4549892252570,Film Sticky Note Pop-up Type Blue 160 Notes- Polyethylene terephthalate 標籤貼,3919.90.90.00-6,,
+AA/13/441/G2535,23,4549892252587,Film Sticky Note Pop-up Type Purple 160 Notes- Polyethylene terephthalate 標籤貼,3919.90.90.00-6,,
+AA/13/441/G2535,24,4550480022390,Clothespin Hanger For Low Laundry Pole 42 pcs.- Polypropylene 晾衣夾,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,25,4550480067650,MULTISTORY PARKING AREA Polypropylene、ABS resin 立體停車場玩具,9503.00.91.90-5,20203272680006,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,26,4550480124933,Aluminum Twisted S Hook 2pcs. Aluminum S型掛鉤,7616.99.90.00-5,,
+AA/13/441/G2535,27,4550480182193,Pullback Car -Military- 玩具車,9503.00.41.00-5,20203272682002,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,28,4550480194127,Wire Basket Black 37cmx26cmx24cm- Steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,29,4550480194134,Wire Basket Black 37cmx26cmx12cm- Steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,30,4550480194141,Wire Basket Black- 26.5cmx36cmx12cm-Steel收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,31,4550480194158,Wire Basket Black- 26.5cmx36cmx24cm-Steel收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,32,4550480194165,Wire Basket White - 37cmx26cmx24cm- Steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,33,4550480194172,Wire Basket White - 37cmx26cmx12cm- Steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,34,4550480194189,Wire Basket White - 26.5cmx36cmx12cm-Steel收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,35,4550480202938,Coffee Drip Pot 350mL - 手沖咖啡壺【350ml】,7323.93.00.00-4,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,36,4550480219165,"PVC trouser hanger 2P Steel, Polyvinyl chloride 褲架",7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,37,4550480223148,Japanese Mug -7.43fl oz - 220mL PK- Porcelain 瓷土馬克杯 【220ml】蔦,6911.10.00.00-4,IFB13PK0785104,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2535,38,4550480223148,Japanese Mug -7.43fl oz- 220mL 1-3 Assorted Styles- Porcelain 瓷土馬克杯 【220ml】花樣,6911.10.00.00-4,IFB13PK0785206,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2535,39,4550480223148,Japanese Mug 7.43fl oz 220mL 1-3 Assorted Styles- Porcelain 瓷土馬克杯 【220ml】三色線,6911.10.00.00-4,IFB13PK0785308,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2535,40,4550480234748,"Badminton Set Body: Polystyrene, Polypropylene, Polyester, EVA resin 羽毛球玩具",9506.91.00.00-1,20203272681009,
+AA/13/441/G2535,41,4550480239811,Makeup Spray -Diffusion Nozzle 50mL 噴霧瓶【50ml】,8424.89.90.00-7,,
+AA/13/441/G2535,42,4550480239835,Makeup Spray -Diffusion Nozzle 100mL 噴霧瓶【100ml】,8424.89.90.00-7,,
+AA/13/441/G2535,43,4550480243344,Clothespin Hanger -Polycarbonate Hook 32 Clothespins - 晾衣夾,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,44,4550480253534,Double Guard Cover Clear For Smartphone 14 - iPhone14 手機殼,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,45,4550480268941,Colorful Ball With Star - 12 pcs. Polyethylene 玩具球,9506.69.90.00-0,20203272681009,
+AA/13/441/G2535,46,4550480268958,Colorful Ball With Heart - 12 pcs. Polyethylene 玩具球,9506.69.90.00-0,20203272681009,
+AA/13/441/G2535,47,4550480355955,"Instant adhesive stick (for detail work, 2 pcs, 3 trays) Polyethylene瞬間膠專用黏著棒",3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,48,4550480378091,Truck With Ladder Work Vehicle Series ABS resin 工作車玩具,9503.00.41.00-5,20203272682002,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,49,4550480378107,Flatbed Truck Work Vehicle Series ABS resin 工作車玩具,9503.00.41.00-5,20203272682002,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,50,4550480382005,Shopping Bag -Pink- Body Polypropylene Coating: OPP 購物袋,4202.92.90.91-8,,
+AA/13/441/G2535,51,4550480382012,Shopping Bag -Gray- Body Polypropylene Coating: OPP 購物袋,4202.92.90.91-8,,
+AA/13/441/G2535,52,4550480394282,Clothes Brush With Shoehorn Body Polystyrene Brush: Polyester 衣服刷附鞋拔,9603.90.90.00-5,,刷具 - 注意動物毛/植物毛
+AA/13/441/G2535,53,4550480405612,Binoculars -Folding Color B ABS resin 折疊式望遠鏡,9005.10.00.90-6,,
+AA/13/441/G2535,54,4550480405629,Binoculars -Folding - Color A ABS resin 折疊式望遠鏡,9005.10.00.90-6,,
+AA/13/441/G2535,55,4550480416687,Silicone Tongs With Stand 22.5cm- 料理夾【22.5x4.5x3.2CM】,3924.10.00.90-6,IFB13PK0785400,食品容器 (Food Contact) - 需檢驗; 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,56,4550480416717,Silicone Tongs With Stand 30cm- 料理夾【30×4.5×3.5CM】,3924.10.00.90-6,IFB13PK0785502,食品容器 (Food Contact) - 需檢驗; 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,57,4550480427355,Sandbox Work Vehicle Polypropylene 堆沙玩具車,9503.00.41.00-5,20203272682002,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,58,4550480438399,Closet Storage Case 33.7cm x 40.5cm x 12.5cm- Polypropylene 衣櫃用收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,59,4550480452128,Clear Hard Case For Smartphone 15Pro - Polycarbonate 手機殼 【iPhone15 Pro】,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,60,4550480452135,Clear Hard Case For Smartphone 15-Polycarbonate 手機殼【iPhone15】,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,61,4550480454290,Point Marker Sticky Notes 12 Types x 20 pcs.- PET 便條紙,4823.90.00.31-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,62,4550480454962,Lunch Picks Mickey and Minnie - 10 pcs- 便當裝飾叉【1.5×5CM】,3924.10.00.90-6,IFB13PK0785601,食品容器 (Food Contact) - 需檢驗; 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,63,4550480458878,Silicone Pot Mat Set of 2 Silicone rubber 鍋墊【15.3×5cm】,3924.10.00.90-6,DH999999999999,塑膠/美耐皿檢驗 (Plastic/Melamine); 可能為免驗或核備代碼
+AA/13/441/G2535,64,4550480458892,Retro Silicone Pot Mat Silicone rubber 鍋墊【16×2cm】,3924.10.00.90-6,DH999999999999,塑膠/美耐皿檢驗 (Plastic/Melamine); 可能為免驗或核備代碼
+AA/13/441/G2535,65,4550480458908,Leather Pattern Silicone Pot Mat Silicone rubber 鍋墊【15.5×2cm】,3924.10.00.90-6,DH999999999999,塑膠/美耐皿檢驗 (Plastic/Melamine); 可能為免驗或核備代碼
+AA/13/441/G2535,66,4550480476773,Silicone Spatula with Tip That Does Not Touch 抹刀【25×1.5×5.3CM】,3924.10.00.90-6,IFB13PK0785703,食品容器 (Food Contact) - 需檢驗; 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,67,4550480476780,Silicone Brush with Tip That Does Not Touch 料理刷【21.8×1.5×3.9CM】,3924.10.00.90-6,IFB13PK0785805,食品容器 (Food Contact) - 需檢驗; 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2535,68,4550480478081,Rocket Body: Polyvinyl chloride Polypropylene Polyethylene EVA resin ABS resin 飛天火箭玩具,9503.00.91.90-5,20203272680006,玩具 (Toys) - 需 BSMI 檢驗
+AA/13/441/G2535,69,4550480534732,Wire Stackable Basket-BK- 29cmx16.5cmx13cm- Coating Powder coating Body: Steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,70,4550480534749,Wire Basket-BK- 28cmx21.5cmx11cm- Coating Powder coating Body: Steel 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,71,4550480545530,Two-toned clear umbrella -Gray- 長傘【60CM】,6601.99.00.00-3,,
+AA/13/441/G2535,72,4550480545547,Two-toned clear umbrella -Black- 長傘【60CM】,6601.99.00.00-3,,
+AA/13/441/G2535,73,4550480551593,Berry Vine Body: Polystyrene Polyester Polyethylene Steel 仿真裝飾植物,6702.90.00.00-0,,
+AA/13/441/G2535,74,4550480551647,Fake Moss Sheet Nylon 裝飾用草皮,5705.00.40.00-0,,
+AA/13/441/G2535,75,4550480551661,Green Garland Ivy- Polyester、Polyethylene 仿真裝飾花圈,6702.90.00.00-0,,
+AA/13/441/G2535,76,4550480551678,Green Leaf Vine Polyethylene、Steel 仿真裝飾植物,6702.90.00.00-0,,
+AA/13/441/G2535,77,4550480551685,Pothos Vine Polyester Polyethylene Steel 仿真裝飾植物,6702.90.00.00-0,,
+AA/13/441/G2535,78,4550480551692,Ivy Vine Polyester Polyethylene Steel 仿真裝飾植物,6702.90.00.00-0,,
+AA/13/441/G2535,79,4550480551722,Fake Moss Sheet Square Nylon 裝飾用草皮,5705.00.40.00-0,,
+AA/13/441/G2535,80,4550480573908,Wire Stackable Basket-26cmx19cmx13cm- Body: Steel Coating: Nickel plated 收納籃,7323.99.00.00-8,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2535,81,8692952095214,WHISKY GLASS 405 ml Body Soda-lime glass 威士忌品酒杯【405ml】,7013.37.00.00-8,,
+AA/13/441/G2535,82,8692952187872,WINE TUMBLER 475ml Body: Soda-lime glass 紅酒杯【475ml】,7013.37.00.00-8,,
+AA/13/441/G2535,83,8692952193675,PITCHER 700 ml Body Soda-lime glass 玻璃瓶【700ml】,7010.90.00.20-1,,
+AA/13/441/G2246,1,4549131345445,WOODEN PRODUCTS Paulownia Polystyrene 收納木盒(已上漆),4421.99.00.90-6,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,2,4549131362381,CLIP BOARD Paper Steel Polypropylene 板夾【A4】,8305.90.90.00-8,FT999999999991,
+AA/13/441/G2246,3,4549131489200,MAT Outer material- Polypropylene 100pct. 地墊【44×75cm】,5705.00.40.00-0,,
+AA/13/441/G2246,4,4549131489217,MAT Outer material- Polypropylene 100pct. 地墊【40×60cm】,5705.00.40.00-0,,
+AA/13/441/G2246,5,4549131586732,WOODEN DISPLAY RACK frame: Poplar Polyester 布製收納盒,6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,6,4549131780574,WOODEN TRAY Laminated Veneer Lumber Lacquer coating 木製托盤,4419.90.00.90-9,DH999999999999,可能為免驗或核備代碼
+AA/13/441/G2246,7,4549131863154,"APRON 64% Polyester, 24% Cotton, 10% Rayon, 2% Nylon 圍裙",6210.50.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,8,4549131923865,WOODEN PRODUCTS Paulownia Magnet Cork Polystyrene 木製收納盒【A4】(已上漆),4421.99.00.90-6,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,9,4549131930917,WOODEN PRODUCTS Material: Iron Paulownia Polystyrene 收納盒(已上漆),4421.99.00.90-6,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,10,4549131981377,MICROFIBER HAIR TURBAN Polyester 85%、Nylon 15% 洗臉化妝髮帶【8×17cm】,6217.90.90.00-9,,
+AA/13/441/G2246,11,4549131982466,GLASS JAR Body Glass Lid Bamboo Packing: Silicone rubber 玻璃保存罐【400ml】,7010.90.00.20-1,,
+AA/13/441/G2246,12,4549131985245,GLASS ORNAMENT Glass 玻璃收納盒,7013.99.90.00-4,,
+AA/13/441/G2246,13,4550480008530,GLASS ORNAMENT Glass 玻璃花瓶,7013.99.40.00-5,,
+AA/13/441/G2246,14,4550480062693,RAIN PONCHO Body: Polyethylene Button: Polypropylene 雨披,3926.20.00.90-2,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,15,4550480062754,RAIN COAT Body: Polyethylene Button Polypropylene 雨衣,3926.20.00.90-2,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,16,4550480066035,WOODEN MAT Body: Paulownia 木架板(已上漆),4421.99.00.90-6,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,17,4550480142821,GLASSWARE Main unit Heat-resistant glass Dripper: Stainless steel 咖啡濾壺【500ml】,7013.42.00.00-1,,
+AA/13/441/G2246,18,4550480174488,MICROFIBER HAIR TURBAN 洗臉化妝髮帶【8×17cm】,6217.90.90.00-9,,
+AA/13/441/G2246,19,4550480223339,PORCELAIN Porcelain 瓷土深盤【18.5cm】,6911.10.00.00-4,IFB13262152202,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2246,20,4550480223414,GLASSES Soda-lime glass 甜點杯【130ml】,7013.37.00.00-8,FT999999999991,
+AA/13/441/G2246,21,4550480223438,GLASSES Body Soda-lime glass Lid: Tin Seal: Polyethylene 玻璃保存罐【400ml】,7010.90.00.20-1,,
+AA/13/441/G2246,22,4550480223513,GLASSES Body Soda-lime glass Cap: ABS resin Seal: TPE 玻璃油瓶【280ml】,7013.49.00.00-4,,
+AA/13/441/G2246,23,4550480223544,GLASSES Body: Soda-lime glass Lid: Soda-lime glass Seal: Silicone rubber Lever: Steel 附蓋玻璃罐【3L】,7010.90.00.10-3,,
+AA/13/441/G2246,24,4550480229058,GLASS TEAPOT Heat-resistant glass 玻璃茶壺【9.5 x 9.5x11cm】,7013.42.00.00-1,,
+AA/13/441/G2246,25,4550480230801,GLASSES Body Soda-lime glass Lid: Polypropylene 玻璃保存罐【1.8L】,7010.90.00.10-3,,
+AA/13/441/G2246,26,4550480289427,PE PLASTIC BAG Polyethylene 加厚夾鏈袋【A4】(非食品用),3923.29.90.90-7,,
+AA/13/441/G2246,27,4550480289441,PE PLASTIC BAG Polyethylene 加厚夾鏈袋【A5】(非食品用),3923.29.90.90-7,,
+AA/13/441/G2246,28,4550480289472,PE PLASTIC BAG Polyethylene 加厚夾鏈袋【B4】(非食品用),3923.29.90.90-7,,
+AA/13/441/G2246,29,4550480289496,PE PLASTIC BAG Polyethylene 加厚夾鏈袋【A6】(非食品用),3923.29.90.90-7,,
+AA/13/441/G2246,30,4550480289519,PE PLASTIC BAG Polyethylene 加厚夾鏈袋【A7】(非食品用),3923.29.90.90-7,,
+AA/13/441/G2246,31,4550480326511,"CANDLES Paraffin, Palm oil, Cotton, Fragrance Containers: Aluminium alloy 小蠟燭 【薰衣草】",3406.00.00.00-4,,
+AA/13/441/G2246,32,4550480326535,"CANDLES Paraffin, Palm oil, Cotton, Fragrance Containers: Aluminium alloy 小蠟燭 【玫瑰】",3406.00.00.00-4,,
+AA/13/441/G2246,33,4550480326542,"CANDLES Paraffin, Palm oil, Cotton Containers: Aluminium alloy 小蠟燭",3406.00.00.00-4,,
+AA/13/441/G2246,34,4550480345185,BOOKEND Steel 書擋,7326.90.20.00-0,,
+AA/13/441/G2246,35,4550480345192,BOOKEND Steel 書擋,7326.90.20.00-0,,
+AA/13/441/G2246,36,4550480376127,PORCELAIN Porcelain 瓷土拉麵碗【20cm】,6911.10.00.00-4,IFB13262152304,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2246,37,4550480376257,GLASSES Soda-lime glass 收納瓶,7013.99.90.00-4,,
+AA/13/441/G2246,38,4550480376264,GLASSES Soda-lime glass 收納瓶,7013.99.90.00-4,,
+AA/13/441/G2246,39,4550480392202,STORAGE BOX Polypropylene 小物收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2246,40,4550480400945,PP PLASTIC BAG Polypropylene 卡片保護套【90×65mm】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,41,4550480400976,PP PLASTIC BAG Polypropylene 卡片保護套【90×65mm】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,42,4550480406855,SHOWER CAP Rubber Natural rubber Body: Polyethylene 拋棄式浴帽,6506.91.00.00-7,,
+AA/13/441/G2246,43,4550480406862,SHOWER CAP Rubber Natural rubber Body: Polyethylene 拋棄式浴帽,6506.91.00.00-7,,
+AA/13/441/G2246,44,4550480411125,WOODEN PRODUCTS Paulownia Veneer Steel Polystyrene 木製收納盒(已上漆),4421.99.00.90-6,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2246,45,4550480437729,"CANDLES Paraffin, Palm oil, Cotton Container: Aluminum alloy 小蠟燭",3406.00.00.00-4,,
+AA/13/441/G2246,46,4550480509617,COSMETIC BAG Body Synthetic leather front part: Polyvinyl chloride 【推活應援】小物收納包,4202.32.00.10-8,,
+AA/13/441/G2246,47,4550480509655,KNAPSACK Body Synthetic leather front pocket: Polyvinyl chloride 【推活應援】小物收納包,4202.32.00.10-8,,
+AA/13/441/G2246,48,4550480509709,COSMETIC BAG Body: Synthetic leather front part: Polyvinyl chloride 【推活應援】小物收納包,4202.32.00.10-8,,
+AA/13/441/G2246,49,4550480510170,COSMETIC BAG Body Synthetic leather front pocket Polyvinyl chloride 【推活應援】小物收納包,4202.32.00.10-8,,
+AA/13/441/G2246,50,4550480510194,COSMETIC BAG Body Synthetic leather front pocket Polyvinyl chloride 【推活應援】小物收納包,4202.32.00.10-8,,
+AA/13/441/G2246,51,4550480517025,GLASS BOTTLE Glass 蠟燭杯,9405.50.90.00-3,,燈具/家具 - 注意檢驗
+AA/13/441/G2246,52,4550480517032,GLASS BOTTLE Glass 蠟燭杯,9405.50.90.00-3,,燈具/家具 - 注意檢驗
+AA/13/441/G2466,1,4549131158229,LINT ROLLER SIS Rosin resin Paper PVA 黏著滾輪補充包,4811.41.00.00-2,,
+AA/13/441/G2466,2,4549131158236,LINT ROLLER SIS Rosin resin Paper PVA 黏著滾輪補充包,4811.41.00.00-2,,
+AA/13/441/G2466,3,4549131257960,FLUFFY FACE TOWEL-COLORED- POLYESTER85PCT NYON15PCT 毛巾(平織)【34×78CM】,6302.93.00.00-1,20203400032008,
+AA/13/441/G2466,4,4549131310009,Thick Microfiber Dust Cloth -2 Pieces 80pct polyester 20pct nylon 抹布,6307.10.00.00-6,,
+AA/13/441/G2466,5,4549131314021,COLORED MAGNET Magnet. PS 磁鐵,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,6,4549131314038,COLORED MAGNET Magnet. PS 磁鐵,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,7,4549131316391,COLORED MAGNET Magnet. PS 磁鐵,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,8,4549131316421,CLEAR MAGNET Magnet. PS 磁鐵,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,9,4549131327274,Chawanmushi Yuteki Tenmoku Hakeme stoneware 陶土茶碗蒸碗【280ml】,6912.00.10.00-3,IFB13262227108,食品容器 (Food Contact) - 需檢驗; 陶瓷檢驗 (Ceramic Inspection)
+AA/13/441/G2466,10,4549131493160,"STAPLER WITHOUT STAPLE ABS plastic, Steel 無針釘書機",8205.59.20.00-3,,
+AA/13/441/G2466,11,4549131524192,MAGNETIC CLIP(LARGE) Magnets Iron 磁吸式便利夾,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,12,4549131524208,10CM BAR MAGNETIC Magnets ABS plastic 磁鐵條,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,13,4549131524215,20CM BAR MAGNETIC Magnets ABS plastic 磁鐵條,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,14,4549131540291,"Microfiber Dust Cloth-Color- 80% polyester, 20%nylon 超細纖維抹布",6307.10.00.00-6,,
+AA/13/441/G2466,15,4549131558821,SAFETY PIN NO.133 Head-ABS plastic. Pin- Stainless steel 安全別針,7319.40.00.10-2,,
+AA/13/441/G2466,16,4549131593655,HAND SEWING NEEDLES Steel-Steel. Threder Head-Aluminum. Threder tip-Stainless steel 修補用縫紉針,7319.90.10.00-1,,
+AA/13/441/G2466,17,4549131633498,Microfiber Kitchen Cloth 2 pcs. 80pct Polyester 20pct Nylon 超細纖維抹布,6307.10.00.00-6,,
+AA/13/441/G2466,18,4549131742640,Garlic Crusher Zinc alloy 壓蒜器,8205.51.90.00-6,,
+AA/13/441/G2466,19,4549131765489,"Carabiner Screw Type With Key Ring Aluminum, Iron 扣環鑰匙圈未附玩具",7616.99.90.00-5,,
+AA/13/441/G2466,20,4549131765502,"Carabiner S Shape With Key Ring 2pcs. Aluminum, Steel S型扣環鑰匙圈未附玩具",7616.99.90.00-5,,
+AA/13/441/G2466,21,4549131765519,"Carabiner S Shape With Key Ring Aluminum, Steel S型扣環鑰匙圈未附玩具",7616.99.90.00-5,,
+AA/13/441/G2466,22,4549131776140,Dice With Case 6 pcs. -Basic- 骰子玩具,9504.90.90.00-5,20203400033001,
+AA/13/441/G2466,23,4549131777987,Car Cushion With Stopper 車用坐墊填充,9404.90.00.19-4,CI999999999999,一般查驗 (General Inspection); 燈具/家具 - 注意檢驗
+AA/13/441/G2466,24,4549131854916,Die 6cm x 6cm Polyurethane 100% 骰子玩具,9504.90.90.00-5,20203400033001,
+AA/13/441/G2466,25,4549131954098,Bar Magnet White 30cm Magnets ABS plastic 磁鐵條,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,26,4549131954104,BAR MAGNETS NO.69 Magnets ABS plastic 磁鐵條,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,27,4549131978742,SEAM RIPPER NO.165 Main unit: Steel、 Polypropylene Cap: Polystyrene 拆線器,8205.59.90.90-9,,
+AA/13/441/G2466,28,4549131984903,Shoe Tree US 6.5-10 EU 39-44- cypress Genus Cypress Species Cupressaceae Steel 鞋撐,4417.00.00.00-9,,
+AA/13/441/G2466,29,4550480002323,Mesh Pouch With Pocket- Outer material: Polyester 100% Pocket Polyester 100%、小物收納包,4202.32.00.20-6,,
+AA/13/441/G2466,30,4550480011547,Grid Ruler -20cm - Polyvinyl chloride 20CM直尺,9017.20.90.00-0,,
+AA/13/441/G2466,31,4550480014845,Card Holder -Beige 20 Pockets- Body: Polyvinyl chloride Body Paper Metal Part: Steel 卡片收納冊,4202.32.00.20-6,,
+AA/13/441/G2466,32,4550480014852,Card Holder Navy 20 Pockets- Body: Polyvinyl chloride Body Paper Metal Part: Steel 卡片收納冊,4202.32.00.20-6,,
+AA/13/441/G2466,33,4550480026619,"BLACKBOARDS SET NO.6619 Blackboard: MDF, Steel Blackboard eraser: Polypropylene, Cotton, Polyester, Steel Chalk: Calcium sulfate 黑板組",9610.00.00.00-4,,
+AA/13/441/G2466,34,4550480029016,"Bookend(white, T shape, 2pcs) Steel 書擋",7326.90.20.00-0,,
+AA/13/441/G2466,35,4550480029313,"Bookend (L shape, black) Steel 書擋",7326.90.20.00-0,,
+AA/13/441/G2466,36,4550480074856,PU Basketball -1 pc. 5.90in 15cm Polyurethane 籃球玩具,9506.62.90.00-7,20203400033001,
+AA/13/441/G2466,37,4550480077710,POSTCARD HOLDER 80 POCKETS 2 STEPS (WHITE) 100% Polypropylene 明信片收納本,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,38,4550480097312,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【DARK MUSK】",3307.49.00.00-7,,
+AA/13/441/G2466,39,4550480097350,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【DEEP IN THE FOREST】",3307.49.00.00-7,,
+AA/13/441/G2466,40,4550480097367,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【LILY & JASMINE】",3307.49.00.00-7,,
+AA/13/441/G2466,41,4550480097374,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【SAVON】",3307.49.00.00-7,,
+AA/13/441/G2466,42,4550480129723,"Waist Cushion Outer material: 100% Polyester Padding: Polyurethane foam Lining: 100% Polyester 車用腰靠填充【40×17×7cm】",9404.90.00.19-4,CI999999999999,一般查驗 (General Inspection); 燈具/家具 - 注意檢驗
+AA/13/441/G2466,43,4550480164847,TWEEZERS NO.4847 Body Stainless steel Cap Polyethylene 鑷子,8203.20.00.00-5,,
+AA/13/441/G2466,44,4550480181523,PHOTO FRAME MDF PET Steel Paper 海報框【A4】,3926.40.00.00-7,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,45,4550480181530,PHOTO FRAME MDF PET Steel Paper 海報框【A3】,3926.40.00.00-7,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,46,4550480239774,"Makeup Brushes -5pcs Body: Aluminum, Polystyrene, Polybutylene terephthalate 化妝刷具組",9603.29.00.00-0,,
+AA/13/441/G2466,47,4550480241234,CLEANING BRUSH Polyurethane Polypropylene 浴缸清潔刷,9603.90.90.00-5,,
+AA/13/441/G2466,48,4550480263809,CLAY CUTTER NO.3809 ABS resin 黏土裁切器,3926.90.90.90-8,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,49,4550480263915,CLAY NEEDLE NO.3908 ABS resin 黏土塑形棒,3926.90.90.90-8,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,50,4550480263915,CLAY ROLLER NO.3915 ABS resin 黏土滾輪刀【圓型】,3926.90.90.90-8,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,51,4550480264271,Clay Roller -Wave- ABS resin 黏土滾輪刀【波浪】,3926.90.90.90-8,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,52,4550480275215,MAGNET KIT NO.5215 Acrylic resin Magnet 磁吸式相框,3926.40.00.00-7,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,53,4550480275772,CLIP NO.5772 Steel 長尾夾【25mm】,8305.90.90.00-8,,
+AA/13/441/G2466,54,4550480275994,"Whiteboard Eraser Eraser ABS plastic、Magnets Sheets: Polyester 六層可撕式白板擦",6307.10.00.00-6,,
+AA/13/441/G2466,55,4550480276069,CLIP NO.6069 Steel 長尾夾【19mm】,8305.90.90.00-8,,
+AA/13/441/G2466,56,4550480278438,"Collapsible Bucket 10L - 2.64gal Exterior, bottom: Polypropylene Collapsible part: Thermoplastic elastomer 折疊式水桶【10L】",3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,57,4550480286754,Clay Scale Body Polypropylene Stick Polyethylene 黏土模具,3926.90.90.90-8,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,58,4550480298108,"Sink Strainer Elastic -Deep -Color-40pcs Polyester, Spandex 洗碗槽排水口濾網(深型)",6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,59,4550480298160,"Sink Strainer Elastic -Deep -45pcs Polyester, Spandex 洗碗槽排水口濾網(深型)",6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,60,4550480298184,"Sink Strainer Elastic - Shallow -45pcs Polyester, Spandex 洗碗槽排水口濾網(淺型)",6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,61,4550480298191,"Sink Strainer Elastic - Shallow Color -40pcs Polyester, Spandex 洗碗槽排水口濾網(淺型)",6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,62,4550480300207,"Sink Strainer Elastic - Shallow 30pcs Polyester, Spandex 洗碗槽排水口濾網(淺型)",6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,63,4550480300214,"Sink Strainer Elastic -Deep -30pcs Polyester, Spandex 洗碗槽排水口濾網(深型)",6307.90.90.90-1,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,64,4550480309491,Ball Penguin- Polyurethane 玩具球,9506.69.90.00-0,20203400033001,
+AA/13/441/G2466,65,4550480312095,"STAMPS NO.2095 Rubber sheet Synthetic rubber -Nitrile butadiene rubber Holder Polystyrene 印章",9611.00.10.00-1,,
+AA/13/441/G2466,66,4550480312446,CRAFT PUNCHES Blade Zinc alloy Body ABS resin 造型打洞器,8205.59.20.00-3,,
+AA/13/441/G2466,67,4550480312460,CRAFT PUNCHES Blade Zinc alloy Body ABS resin 造型打洞器,8205.59.20.00-3,,
+AA/13/441/G2466,68,4550480312491,Name Stamp Holder 10pcs. Polystyrene 印章柄,3926.90.90.90-8,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,69,4550480331652,CRAFT PUNCHES NO.1652 Blade Zinc alloy Body ABS resin 造型打洞器,8205.59.20.00-3,,
+AA/13/441/G2466,70,4550480339528,MINI MENU BOARD NO.9528 ABS resin 迷你告示板【粉筆專用】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,71,4550480339535,MINI MENU BOARD NO.9535 ABS resin 迷你告示板【白板筆專用】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,72,4550480345772,"Eyeshadow Brush S Coffee handle Coffee grounds, PBT resin Body: Polypropylene Aluminum 眼影刷",9603.29.00.00-0,,
+AA/13/441/G2466,73,4550480345789,"Concealer Brush Coffee handle Coffee grounds, PBT resin Body: Polypropylene Aluminum 遮瑕刷",9603.29.00.00-0,,
+AA/13/441/G2466,74,4550480345802,"Eyeshadow Brush -Coffee handle Coffee grounds, PBT resin Body: Polypropylene Aluminum 眼影刷",9603.29.00.00-0,,
+AA/13/441/G2466,75,4550480347066,Point Brush Coffee handle Coffee grounds, PBT resin Body Polypropylene Aluminum 遮瑕刷,9603.29.00.00-0,,
+AA/13/441/G2466,76,4550480347073,"Screw Brush Coffee handle Coffee grounds, PBT resin Body: Polypropylene, Aluminum, Stainless steel 螺旋刷",9603.29.00.00-0,,
+AA/13/441/G2466,77,4550480371764,Microfiber Kitchen Cloth 4 pcs. 83% Polyester 17% Nylon 超細纖維抹布【29×29cm】,6307.10.00.00-6,,
+AA/13/441/G2466,78,4550480372969,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【金木犀】",3307.49.00.00-7,,
+AA/13/441/G2466,79,4550480372976,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【花開】",3307.49.00.00-7,,
+AA/13/441/G2466,80,4550480372990,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【含差草】",3307.49.00.00-7,,
+AA/13/441/G2466,81,4550480373010,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【百合&茉莉】",3307.49.00.00-7,,
+AA/13/441/G2466,82,4550480373027,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【皂香】",3307.49.00.00-7,,
+AA/13/441/G2466,83,4550480373034,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【格雷伯爵茶】",3307.49.00.00-7,,
+AA/13/441/G2466,84,4550480373041,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【白麝香】",3307.49.00.00-7,,
+AA/13/441/G2466,85,4550480373058,"AROMA DIFFUER REFILL Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶補充液【白麝香】",3307.49.00.00-7,,
+AA/13/441/G2466,86,4550480373065,"AROMA DIFFUER REFILL Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶補充液【格雷伯爵茶】",3307.49.00.00-7,,
+AA/13/441/G2466,87,4550480373072,"AROMA DIFFUER REFILL Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶補充液【皂香】",3307.49.00.00-7,,
+AA/13/441/G2466,88,4550480373089,"AROMA DIFFUER REFILL Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香補充包【百合&茉莉】",3307.49.00.00-7,,
+AA/13/441/G2466,89,4550480373102,"AROMA DIFFUER REFILL Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香補充包【金木犀】",3307.49.00.00-7,,
+AA/13/441/G2466,90,4550480373119,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【鈴蘭】",3307.49.00.00-7,,
+AA/13/441/G2466,91,4550480412269,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【金木犀】",3307.49.00.00-7,,
+AA/13/441/G2466,92,4550480412306,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【白檀】",3307.49.00.00-7,,
+AA/13/441/G2466,93,4550480412351,"AROMA DIFFUER Ingredients: Water, Surfactant, Fragrance, Ethanol 擴香瓶【WHITE TEA】",3307.49.00.00-7,,
+AA/13/441/G2466,94,4550480413259,Mini desktop broom set Polypropylene 桌上迷你掃把畚斗組,9603.90.90.00-5,,
+AA/13/441/G2466,95,4550480419565,EVA Pouch with Gusset EVA resin 小物收納包,4202.32.00.10-8,,
+AA/13/441/G2466,96,4550480420400,Sliding Eraser Body TPE Sleeve: Polycarbonate 伸縮塑膠擦,4016.92.00.00-3,20203400034001,
+AA/13/441/G2466,97,4550480420417,Sliding Eraser -Pastel- Body TPE Sleeve: Polycarbonate 伸縮塑膠擦,4016.92.00.00-3,20203400034001,
+AA/13/441/G2466,98,4550480430409,Dropper Bottle -0.084fl oz 2.5mL 3pcs. Glass Silicone rubber Polypropylene 滴管瓶,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,99,4550480430416,Dropper Bottle -0.067fl oz 2mL 3pcs.- Glass Silicone rubber Polypropylene 滴管瓶,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,100,4550480430423,Micro Brush 50pcs Nylon Polypropylene 迷你棉棒,5601.21.90.00-9,,
+AA/13/441/G2466,101,4550480446523,Folding Outdoor Chair With Storage Bag 折疊椅,9401.79.00.00-3,CI999999999999,一般查驗 (General Inspection); 燈具/家具 - 注意檢驗
+AA/13/441/G2466,102,4550480462684,"AROMA OIL FLORAL Water, Surfactant, Fragrance, Ethanol 芳香精油【花香】",3307.49.00.00-7,,
+AA/13/441/G2466,103,4550480495798,Hair Clip Butterfly 2pcs- Polystyrene 髮夾,9615.11.00.00-6,,
+AA/13/441/G2466,104,4550480501741,Powder Puff -2 pcs.- Cover Polyester Inner material: Polyurethane 粉撲,9616.20.00.00-4,,
+AA/13/441/G2466,105,4550480501758,Powder Puff -3 pcs.- Cover: Cotton, Polyester Inner material: Polyurethane 粉撲,9616.20.00.00-4,,
+AA/13/441/G2466,106,4550480531502,Spiral Notebook-flower-A5- Body: Paper Cover: Polypropylene 線圈筆記本【A5】,4820.10.00.90-9,,
+AA/13/441/G2466,107,4550480538709,Zipped Case B4 White Black Polypropylene 拉鏈資料夾【B4】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,108,4550480538716,Zipped Case B4 Paletone Purple Gray Polypropylene 拉鏈資料夾【B4】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,109,4550480538723,Zipped Case A4 White- Black Polypropylene 拉鏈資料夾 【A4】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,110,4550480538730,Zipped Case A4 Paletone Purple Gray- Polypropylene 拉鏈資料夾【A4】,3926.10.00.00-3,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2466,111,4945319502035,MAGNETIC CLIP NO.63 Neodymium magnets Polystyrene 磁吸夾,8505.19.00.00-3,CI999999999999,一般查驗 (General Inspection)
+AA/13/441/G2466,112,4984343992283,Brush pp 清潔刷,9603.90.90.00-5,,
+AA/13/441/G2565,1,4549131159929,Partitioned case 4 Polystyrene 收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,2,4549131521382,Stock Box2-17x15x15cm-6.7x 5.9x5.9in Polypropylene 收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,3,4549131533583,Accessory Case-With Partition 17cmx6.5cmx2cm Polypropylene 小物分格收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,4,4549131721027,Box with Lid Storage Master 15cm x 28cm x 16cm Polypropylene 收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,5,4550480364506,Storage Box -Mini- Polypropylene 收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,6,4550480364513,Storage Box Mini 2 pcs. Polypropylene 收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,7,4550480364575,Handle Box 2 Partitioned Body Polypropylene Handle: Polypropylene 手提收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,8,4550480364605,Stock Box 66.49in Body Polypropylene Handle Polypropylene 手提收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,9,4550480364612,Stock Box 59.25in Body Polypropylene Handle: Polypropylene 手提收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,10,4550480364636,Stock Box -10.82in Polypropylene 手提收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,11,4550480406688,Stock Box -2.64gal 10L- Polypropylene 收納箱,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,12,4550480467467,Stock Box -Deep Mickey and Minnie DC6- Polypropylene 手提收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2565,13,4984355078623,Shoe Box 21cmx29xcmx14.5cm Polypropylene 收納鞋盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)

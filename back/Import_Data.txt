@@ -1,0 +1,12 @@
+報單號碼,項次,貨號/條碼,貨物名稱,稅則號列,許可證號碼,申報注意事項
+AA/13/441/G2620,1,4549131521399,Stock Box4 With Partitions Polypropylene 分格收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,2,4549131590685,Transparent Storage Box Polystyrene 收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,3,4550480144344,Eco-friendly Mesh Tray -B7 2 pcs. White- Polypropylene 收納籃【B7】,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,4,4550480144382,Eco-friendly Mesh Tray A4 White Polypropylene 收納籃【A4】,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,5,4550480144955,Eco-friendly Basket -2 - With Handles White- Polypropylene 手提收納籃,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,6,4550480145525,Eco-friendly Basket-5- Handle Long White- Polypropylene 收納籃,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,7,4550480145532,Eco-friendly Basket -4 - Handle Wide White- Polypropylene 收納籃,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,8,4550480338903,Stock Box 1 Joint Type- Polypropylene 手提收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,9,4550480364469,Eco-friendly Mesh Tray B6 White Polypropylene 收納籃【B6】,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,10,4550480364490,Eco-friendly Basket A4 - Deep White- Polypropylene 收納籃【A4】,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
+AA/13/441/G2620,11,4550480364582,Section Case-18 Compartments Polypropylene 分格收納盒,3924.90.00.90-9,CI999999999999,一般查驗 (General Inspection); 塑膠/美耐皿檢驗 (Plastic/Melamine)
